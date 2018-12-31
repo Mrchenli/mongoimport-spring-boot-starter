@@ -1,0 +1,101 @@
+{
+    "_id": "5fe0dbd81e2c4876bec412e374f60100",
+    "_class": "com.iotbull.paascloud.provider.model.domain.PdcProduct",
+    "product_category_id": "5aef37e5b30645ad8927ced8dcfd008e",
+    "product_category_name": "入墙网关",
+    "name": "公牛智能网关",
+    "model": "CSWG1",
+    "image": "https://iot-upload.oss-cn-hangzhou.aliyuncs.com/1540964833410.png",
+    "protocol_type": 1,
+    "device_type": 1,
+    "link_type": 1,
+    "status": 60,
+    "comment": "测试网关",
+    "creator": "lyn公牛智家",
+    "create_time": ISODate("2018-10-26T06:57:58.594Z"),
+    "update_time": ISODate("2018-10-31T05:47:23.248Z"),
+    "is_delete": false,
+    "networks": [
+        {
+            "network_type": 1,
+            "network_image": "https://iot-upload.oss-cn-hangzhou.aliyuncs.com/1540964264686.png",
+            "network_desc": "主人，长按按键直至蓝灯闪烁",
+            "voice_desc": "123123"
+        }
+    ]
+}{
+    "_id": "5fe0dbd81e2c4876bec412e374f60101",
+    "_class": "com.iotbull.paascloud.provider.model.domain.PdcProduct",
+    "product_category_id": "1cb251f0d26c4b2a98beb893c21a375e",
+    "product_category_name": "单火开关单开",
+    "name": "单火开关单开",
+    "model": "CSDHDK",
+    "image": "https://iot-upload.oss-cn-hangzhou.aliyuncs.com/1540965056722.png",
+    "protocol_type": 1,
+    "device_type": 2,
+    "link_type": 1,
+    "status": 60,
+    "comment": "测试单火开关单开",
+    "creator": "lyn公牛智家",
+    "create_time": ISODate("2018-10-26T06:57:58.594Z"),
+    "update_time": ISODate("2018-10-31T05:51:06.282Z"),
+    "is_delete": false,
+    "networks": [
+        {
+            "network_type": 1,
+            "network_image": "https://iot-upload.oss-cn-hangzhou.aliyuncs.com/1540964921902.png",
+            "network_desc": "主人，长按按键直至蓝灯闪烁",
+            "voice_desc": "123123"
+        }
+    ]
+}{
+    "_id": "5fe0dbd81e2c4876bec412e374f60102",
+    "_class": "com.iotbull.paascloud.provider.model.domain.PdcProduct",
+    "product_category_id": "1fe7685db5804f958481a8de7807337c",
+    "product_category_name": "单火开关三开",
+    "name": "单火开关三开",
+    "model": "CSDHSK",
+    "image": "https://iot-upload.oss-cn-hangzhou.aliyuncs.com/1540965141584.png",
+    "protocol_type": 1,
+    "device_type": 2,
+    "link_type": 1,
+    "status": 60,
+    "comment": "测试单火三开",
+    "creator": "lyn公牛智家",
+    "create_time": ISODate("2018-10-26T06:57:58.594Z"),
+    "update_time": ISODate("2018-10-31T05:52:33.012Z"),
+    "is_delete": false,
+    "networks": [
+        {
+            "network_type": 2,
+            "network_image": "https://iot-upload.oss-cn-hangzhou.aliyuncs.com/1540964539378.png",
+            "network_desc": "长按直至蓝灯闪烁",
+            "voice_desc": "123123"
+        }
+    ]
+}{
+    "_id": "5fe0dbd81e2c4876bec412e374f60103",
+    "_class": "com.iotbull.paascloud.provider.model.domain.PdcProduct",
+    "product_category_id": "3d8c39e3a33448c1870e9f1efe92ce5b",
+    "product_category_name": "单火开关双开",
+    "name": "单火开关双开",
+    "model": "CSDHSK",
+    "image": "https://iot-upload.oss-cn-hangzhou.aliyuncs.com/1540965094444.png",
+    "protocol_type": 1,
+    "device_type": 2,
+    "link_type": 1,
+    "status": 60,
+    "comment": "测试单火双开",
+    "creator": "lyn公牛智家",
+    "create_time": ISODate("2018-10-26T06:57:58.594Z"),
+    "update_time": ISODate("2018-10-31T05:51:45.239Z"),
+    "is_delete": false,
+    "networks": [
+        {
+            "network_type": 2,
+            "network_image": "https://iot-upload.oss-cn-hangzhou.aliyuncs.com/1540964458871.png",
+            "network_desc": "长按直至蓝灯闪烁后松开",
+            "voice_desc": "123123"
+        }
+    ]
+}

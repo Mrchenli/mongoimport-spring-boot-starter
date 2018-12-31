@@ -1,0 +1,11 @@
+server:
+  port: 8030
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: paascloud-provider-pdc
+  data:
+    mongodb:
+      uri: mongodb://pdc:pdc@172.16.135.118:27017/pdc
