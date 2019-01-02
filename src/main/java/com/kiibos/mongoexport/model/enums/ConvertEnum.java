@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
  * @Author cl
  * @Date 2018/12/29 下午2:04
  **/
-public enum  ConvertEnum {
+public enum ConvertEnum {
 
     StringToInt("StringToInt"),
     IntToString("IntToString"),
